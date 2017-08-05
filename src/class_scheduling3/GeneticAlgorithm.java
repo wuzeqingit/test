@@ -1,7 +1,7 @@
 package class_scheduling3;
 
 /**
- * 遗传算法类
+ * 遗传算法
  * @author zeQin
  *
  */
