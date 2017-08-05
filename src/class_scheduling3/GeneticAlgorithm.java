@@ -1,4 +1,4 @@
-package class_scheduling;
+package class_scheduling3;
 
 /**
  * Lots of comments in the source that are omitted here!

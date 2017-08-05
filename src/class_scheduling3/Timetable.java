@@ -1,10 +1,10 @@
-package class_scheduling;
+package class_scheduling3;
 
 import java.util.HashMap;
 
 /**
  * 课程表
- * @author WZQ
+ * @author zeQin
  *
  */
 public class Timetable {

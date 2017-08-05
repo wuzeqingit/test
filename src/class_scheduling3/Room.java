@@ -1,4 +1,4 @@
-package class_scheduling;
+package class_scheduling3;
 
 public class Room {
 	private final int roomId;

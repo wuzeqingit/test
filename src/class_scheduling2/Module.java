@@ -3,7 +3,7 @@ package class_scheduling2;
 /**
  * 课程类
  * 
- * @author WZQ
+ * @author zeQin
  *
  */
 public class Module {

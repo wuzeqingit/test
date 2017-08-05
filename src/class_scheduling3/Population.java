@@ -1,4 +1,4 @@
-package class_scheduling;
+package class_scheduling3;
 
 import java.util.Arrays;
 import java.util.Comparator;

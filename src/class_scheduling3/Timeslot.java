@@ -1,9 +1,9 @@
-package class_scheduling;
+package class_scheduling3;
 
 /**
  * 时段类
  * 	表示班级上课在周几的什么时间
- * @author WZQ
+ * @author zeQin
  *
  */
 public class Timeslot {

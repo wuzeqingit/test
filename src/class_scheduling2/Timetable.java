@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 /**
  * 课程表
- * @author WZQ
+ * @author zeQin
  *
  */
 public class Timetable {

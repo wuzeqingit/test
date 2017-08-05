@@ -1,8 +1,8 @@
-package class_scheduling;
+package class_scheduling3;
 
 /**
  * 表示一个学生分组在特定的时间，特定的教室，跟随特定的教授，学习一门课程的一部分
- * @author WZQ
+ * @author zeQin
  *
  */
 public class Class {

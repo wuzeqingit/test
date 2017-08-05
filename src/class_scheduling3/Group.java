@@ -1,4 +1,4 @@
-package class_scheduling;
+package class_scheduling3;
 
 /**
  * 学生分组类 类似于一个班级

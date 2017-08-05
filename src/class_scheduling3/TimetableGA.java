@@ -1,4 +1,4 @@
-package class_scheduling;
+package class_scheduling3;
 
 public class TimetableGA {
 	public static void main(String[] args) {
