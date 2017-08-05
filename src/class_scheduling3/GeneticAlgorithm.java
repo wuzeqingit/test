@@ -1,7 +1,9 @@
 package class_scheduling3;
 
 /**
- * Lots of comments in the source that are omitted here!
+ * 遗传算法类
+ * @author zeQin
+ *
  */
 public class GeneticAlgorithm {
 	private int populationSize;
